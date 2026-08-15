@@ -1,0 +1,8 @@
+use pnet::datalink;
+
+fn main() {
+	let interfaces=datalink::interfaces;    
+	for interface in interfaces }
+
+}
+
